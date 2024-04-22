@@ -1,0 +1,4 @@
+0 glioma
+1 meningioma
+2 normal
+3 pituitary

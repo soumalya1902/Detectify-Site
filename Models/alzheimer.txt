@@ -1,0 +1,4 @@
+0 mild_dementia
+1 moderate_dementia
+2 normal
+3 very_mild_dementia
